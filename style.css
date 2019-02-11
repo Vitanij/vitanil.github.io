@@ -12,7 +12,8 @@ body{
 header{
     height: 80px;
 	background-color: #B7B9F0;
-	border-bottom: 6px #525889 solid; 
+	border-bottom: 6px #525889 solid;
+	min-width: 1250px;
 }
 
 main{
