@@ -90,7 +90,7 @@ a.cheat{
     padding: 15px 50px;
     transition: 0.3s;
     font-size: 24px;
-    font-family: roboto;
+    font-family: roboto, sans-serif;
     border: 4px #8A8CC7 solid;
     box-sizing: border-box;
 }
@@ -132,27 +132,27 @@ h1{
 }
 
 h2{
-    font-family: roboto;
+    font-family: roboto, sans-serif;
     font-weight: bold;
     padding-left: 7%;
 }
 
 p{
-    font-family: roboto;
+    font-family: roboto, sans-serif;
     font-weight: bold;
     font-size: 18px;
 }
 
 a.aside{
     display: block;
-    font-family: roboto;
+    font-family: roboto, sans-serif;
     font-weight: bold;
     font-size: 20px;
 }
 
 a.aside-top{
     display: block;
-    font-family: roboto;
+    font-family: roboto, sans-serif;
     font-weight: bold;
     font-size: 24px;
 }
