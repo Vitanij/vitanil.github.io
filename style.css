@@ -69,7 +69,9 @@ aside.top{
 article{
     margin-top: 3%;
     background-color: #DCDCF9;
-    min-height: 790px;
+    overflow: auto;        /*вот это     */
+    height: 100%;			/*	все нужно для   */
+	padding-bottom: 2%;			  /* резиновой высоты блока */
     margin-right: 20%;
     float: right;
     width: 45%;
