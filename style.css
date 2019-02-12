@@ -173,11 +173,11 @@ p.descr{
 }
 
 @font-face{
-    font-family: 'minecraft';
-    src: url("/8303.ttf");
+    font-family: minecraft;
+    src: url("8303.ttf");
 }
     
 @font-face{
-    font-family: 'roboto';
-    src: url("/roboto-regular.ttf");
+    font-family: roboto;
+    src: url("roboto-regular.ttf");
 }
